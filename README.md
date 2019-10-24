@@ -1,5 +1,7 @@
 This project analyses Starbucks offers. It was done as part of Udacity's Data Science Nano Degree course.
 
+A write-up of this analysis is available as [blogpost on Medium](https://medium.com/@maurits_94643/you-are-part-of-an-experiment-this-is-what-companies-learn-from-you-5050142f2891).
+
 ## Questions answered
 
 * Which offers are used?
