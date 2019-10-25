@@ -10,6 +10,7 @@ A write-up of this analysis is available as [blogpost on Medium](https://medium.
 ## Files
 
 * `starbucks.ipynb` contains the Python notebook containing all steps and further explanation for this analysis
+* `starbucks.html` contains an HTML-version for this notebook
 * `tree/*.dot` are the outputs from the decision trees
 * `tree/*.png` are the rendered outputs
 
