@@ -13,6 +13,7 @@ A write-up of this analysis is available as [blogpost on Medium](https://medium.
 * `starbucks.html` contains an HTML-version for this notebook
 * `tree/*.dot` are the outputs from the decision trees
 * `tree/*.png` are the rendered outputs
+* `data/*.csv` contains the input data
 
 ## Used libraries
 
